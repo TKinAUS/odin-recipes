@@ -1,0 +1,23 @@
+
+h1 {
+    text-align: center; background-color: rgb(69, 69, 235); color: whitesmoke;
+
+}
+
+.recipelist {
+                text-align: center;
+
+}
+
+img {
+        width: 500px; height: auto; border-radius: 50px;
+}
+.cpieimg, .spimg, .bimg {
+        width: 500px; height: auto; border-radius: 100px;
+
+}
+
+button {
+font-size: 40px; background-color: beige; color: rgb(0, 0, 0); border-radius: 10px; border: 5cap;
+
+}
