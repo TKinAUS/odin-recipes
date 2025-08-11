@@ -1,1 +1,1 @@
-**blueberrypie.html - removed closing tags that were unnecessary.  30/8/24 10:22pm
+Will update with learned skills as I work through this project.
